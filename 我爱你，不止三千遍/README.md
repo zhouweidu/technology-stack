@@ -7,14 +7,3 @@
 > `git clone https://github.com/JERRY-Z-J-R/I-love-you-3-thousand.git`
 >
 > 仓库的所有文档均是在 [Typora](https://typora.io/) 中完成编辑的，这也是我最推荐的 Markdown 工具。
-
-### License                  
-
-> Copyright (c) 2022 周吉瑞（JERRY）
-
-- 绝大部分内容为原创，转载请[注明出处](https://github.com/JERRY-Z-J-R/I-love-you-3-thousand)！
-
-- 未经许可，一切内容不可用于商业用途！
-
-- 本人拥有仓库资料的所有权，严禁盗用！
-
