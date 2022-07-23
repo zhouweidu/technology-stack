@@ -1,1 +1,1 @@
-![README](images/readme.png)
+个人技术栈资料
